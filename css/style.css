@@ -15,8 +15,6 @@ body {
 }
 
 .header-logo-italic {
-
-
     color: #2E2F42;
     font-family: Raleway, sans-serif;
     font-size: 18px;
@@ -218,9 +216,7 @@ color:  #2E2F42;
         text-decoration: none;
  }
 
- .header-logo-footer{
-    
-
+ .logo-footer{
         color: #F4F4FD;
             font-family: Raleway, sans-serif;
             font-size: 18px;
