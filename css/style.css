@@ -3,29 +3,16 @@ body {
 }
 
 .header-logo {
+        color: #2E2F42;
+        font-family: Raleway, sans-serif;
+        font-size: 18px;
     
-        color: #4D5AE5;
-            font-family: Raleway;
-            font-size: 18px;
-        
-            font-weight: 700;
-            line-height: 1.17px;
-            letter-spacing: -0.03em;
-            text-transform: uppercase;
-            text-decoration: none;
-}
-
-.header-logo span {
-color: #2E2F42;
-    font-family: Raleway;
-    font-size: 18px;
-
-    font-weight: 700;
-    line-height: 1.17px;
-
-    letter-spacing: -0.03em;
-    text-transform: uppercase;
-    text-decoration: none;
+        font-weight: 700;
+        line-height: 1.17px;
+    
+        letter-spacing: -0.03em;
+        text-transform: uppercase;
+        text-decoration: none;
 }
 
 .header-menu-list {
@@ -194,19 +181,19 @@ color:  #2E2F42;
 
  .footer-logo {
     color:  #F4F4FD;
-        font-family: Raleway;
+        font-family: Raleway, sans-serif;
         font-size: 18px;
         font-weight: 700;
-        line-height: 1.16px;
+        line-height: 1.17px;
        
         letter-spacing: 0.03em;
         text-transform: uppercase;
         text-decoration: none;
  }
 
- .footer-logo span{
-    color:  #4D5AE5;
-        font-family: Raleway;
+ .header-logo-italic{
+    color:#4D5AE5;
+        font-family: Raleway, sans-serif;
         font-size: 18px;
         font-weight: 700;
         line-height: 1.17px;
@@ -221,3 +208,4 @@ color:  #2E2F42;
        
         letter-spacing: 0.02em;
  }
+ 
