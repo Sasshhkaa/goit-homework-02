@@ -3,7 +3,7 @@ body {
 }
 
 .header-logo {
-    color: var(--NAVY-BLUE, #2E2F42);
+    color: #2E2F42;
         font-family: Raleway;
         font-size: 18px;
         
@@ -16,13 +16,12 @@ body {
 }
 
 .header-logo span {
-color: var(--IRIS, #4D5AE5);
+color: #4D5AE5;
     font-family: Raleway;
     font-size: 18px;
   
     font-weight: 700;
     line-height: 1.17px;
-    /* 116.667% */
     letter-spacing: -0.03em;
     text-transform: uppercase;
     text-decoration: none;
@@ -53,6 +52,9 @@ color:  #434455;
 
 .business {
    background-color:  #2E2F42;
+width: 1440px;
+    height: 600px;
+    flex-shrink: 0;
 }
 
 .title-business {
