@@ -24,9 +24,12 @@ body {
 
     letter-spacing: -0.03em;
     text-transform: uppercase;
-    text-decoration: none;
+
 }
 
+.link {
+    text-decoration: none;
+}
 .header-list {
     color:  #2E2F42;
         
@@ -34,7 +37,6 @@ body {
         font-weight: 500;
         line-height: 1.5;
         letter-spacing: 0.02em;
-        text-decoration: none;
 }
 
 .header-list:hover{
@@ -54,7 +56,6 @@ font-style: normal;
     line-height: 1.5;
     
     letter-spacing: 0.02em;
-    text-decoration: none;
 }
 
 .header-contacts:hover{
@@ -193,11 +194,6 @@ color:  #2E2F42;
         letter-spacing: 0.02em;
 }
 
-
-
-
-
-
 /* ---------- */
 /* SECTION5 */
  .footer {
@@ -213,7 +209,7 @@ color:  #2E2F42;
        
         letter-spacing: 0.03em;
         text-transform: uppercase;
-        text-decoration: none;
+       
  }
 
  .logo-footer{
@@ -226,7 +222,7 @@ color:  #2E2F42;
         
             letter-spacing: -0.03em;
             text-transform: uppercase;
-            text-decoration: none;
+            
  }
  .footer-text {
     color: #F4F4FD;
