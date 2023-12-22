@@ -61,6 +61,7 @@ font-style: normal;
     line-height: 1.5;
     
     letter-spacing: 0.02em;
+    list-style-type: none;
 }
 
 .header-contacts:hover{
@@ -122,6 +123,7 @@ background-color: #404BBF;
         font-weight: 500;
         line-height: 1.2;
         letter-spacing: 0.02em;
+        list-style-type: none;
  }
 
  .strategy-text {
@@ -150,9 +152,11 @@ background-color: #404BBF;
  }
 .team-list {
     background-color: #FFFFFF
+    list-style-type: none;
 }
  .team-img {
 background-color:#FFFFFF;
+
  }
  .team-subtitle {
 color:  #2E2F42;
